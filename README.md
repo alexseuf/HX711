@@ -19,3 +19,6 @@ I recommend to connect pin 15(RATE) of HX711 to VCC (+3.3V) in order to get 80 s
 If you have a cheap green breakout board as I have, you have to desolder and bend the pin 15(RATE) upwards. Then soldeer short wire to VCC.
 
 Great explanation of strain gauges: https://www.allaboutcircuits.com/textbook/direct-current/chpt-9/strain-gauges/
+
+uptade raspian to Python 3.x see https://gist.github.com/dschep/24aa61672a2092246eaca2824400d37f 
+at the moment raspian does not incloude a Python 3.x Version (my has 2.7)
